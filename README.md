@@ -1,7 +1,8 @@
 - Hello, I’m @AfnanAbouElwafa
 - I’m interested in Machine Learning & Data Science 
-- 🌱 "if you can dream it, you can do it"
-- 📫 You can find me here https://www.linkedin.com/in/afnan-abouelwafa/ 
+- 🌱 I firmly believe that "Those who possess mastery over data will hold dominion over the entire world."
+- 📫 You can find me here https://www.linkedin.com/in/afnan-abouelwafa/
+- Also here https://www.researchgate.net/profile/Afnan-Abou-Elwafa
 
 
 <!---
